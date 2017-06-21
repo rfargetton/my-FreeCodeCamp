@@ -25,6 +25,6 @@ I use this repository to store all my work and progress on FreeCodeCamp.
 - [ ] Advanced Algorithm Scripting
 - [ ] Advanced Front End Development Projects
   - [ ] Build a Javascript Calculator
-  - [ } Build a Pomodoro Clock
+  - [ ] Build a Pomodoro Clock
   - [ ] Build a Tic Tac Toe Game
   - [ ] Build a Simon Game
