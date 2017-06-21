@@ -8,7 +8,7 @@ I use this repository to store all my work and progress on FreeCodeCamp.
 
 - [ ] HTML5 and CSS
 - [ ] Responsive Design with Boostrap
-- [ ] JQuery
+- [x] JQuery
 - [ ] Basic Front End Development Projects
   - [x] Build a Tribute Page
   - [ ] Build a Personal Portfolio Webpage
