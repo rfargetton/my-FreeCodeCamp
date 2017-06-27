@@ -2,12 +2,12 @@
 
 I use this repository to store all my work and progress on FreeCodeCamp.
 
-# Achievements :
+## Achievements 
 
-## Front End Development Certification
+### Front End Development Certification
 
 - [ ] HTML5 and CSS
-- [ ] Responsive Design with Boostrap
+- [ ] Responsive Design with Bootstrap
 - [x] JQuery
 - [ ] Basic Front End Development Projects
   - [x] Build a Tribute Page
@@ -16,7 +16,7 @@ I use this repository to store all my work and progress on FreeCodeCamp.
 - [x] Object Oriented and Functional Programming
 - [x] Basic Algorithm Scripting
 - [x] Json API and Ajax
-- [x] Intermediate Front End Development Projects
+- [ ] Intermediate Front End Development Projects
   - [x] Random Quote Machine
   - [x] Show the Local Weather
   - [ ] Wikipedia Viewer
