@@ -3,20 +3,81 @@
   <head>
     <meta charset="utf-8">
     <title>Wikipedia Viewer</title>
+    <!-- Latest compiled and minified CSS -->
     <style media="screen">
       body {
         font-family: 'Source Sans Pro', sans-serif;
         color : gray;
+				margin:0;
+				padding: 0;
       }
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+			#search-bar {
+				height: 50px;
+			}
       h1 {
         font-weight: 300;
         font-size: 72px;
       }
+      #results {
+        width: 100%;
+        list-style: none;
+        padding: 0;
+      }
+      .result {
+				padding : 10px;
+				background-color: lightgray;
+				margin-bottom: 20px;
+				transition: margin-left 300ms ease-out;
+				-webkit-transition: margin-left 300ms ease-out;
+      }
+      .result a {
+        text-decoration: none;
+        color : gray;
+      }
+      .result:hover {
+        margin-left: 20px;
+      }
+			input{
+				font-family: 'Source Sans Pro', sans-serif;
+				border : 0px;
+				height: 50px;
+				padding: 0px;
+				margin: 0px;
+				float: left;
+				font-size: 18px;
+				cursor: pointer;
+
+			}
+			#search-field{
+				background-color: lightgray;
+ 	      text-align: center;
+				width: 50%;
+			}
+			input[type="submit"]{
+				width: 25%;
+				color: white;
+			}
+			#random-button {
+				background-color: #00aced;
+			}
     </style>
   </head>
   <body>
+    <div class="container">
+      <form id="search-bar" action="index.html" method="post">
+        <input id="search-field" type="text" name="search-field" placeholder="search">
+        <input id ="search-button" type="submit" name="search-button" value="Search Wikipedia">
+        <input id ="random-button" type="submit" name="random-button" value="Random Article" href="http://www.wikipedia.org">
+      </form>
 
-
+      <div class="result-container">
+				<ul id="results"></ul>
+			</div>
+    </div>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">  </script>
     <script src="main.js"></script>
