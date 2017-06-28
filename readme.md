@@ -2,7 +2,7 @@
 
 I use this repository to store all my work and progress on FreeCodeCamp.
 
-## Achievements 
+## Achievements
 
 ### Front End Development Certification
 
@@ -19,7 +19,7 @@ I use this repository to store all my work and progress on FreeCodeCamp.
 - [ ] Intermediate Front End Development Projects
   - [x] Random Quote Machine
   - [x] Show the Local Weather
-  - [ ] Wikipedia Viewer
+  - [x] Wikipedia Viewer
   - [ ] Use the Twicth.tv JSON API
 - [ ] Intermediate Algorithm Scripting
 - [ ] Advanced Algorithm Scripting
