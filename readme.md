@@ -9,10 +9,10 @@ I use this repository to store all my work and progress on FreeCodeCamp.
 - [ ] HTML5 and CSS
 - [ ] Responsive Design with Bootstrap
 - [x] JQuery
-- [ ] Basic Front End Development Projects
+- [x] Basic Front End Development Projects
   - [x] Build a Tribute Page
-  - [ ] Build a Personal Portfolio Webpage
-- [ ] Basic Javascript
+  - [x] Build a Personal Portfolio Webpage
+- [x] Basic Javascript
 - [x] Object Oriented and Functional Programming
 - [x] Basic Algorithm Scripting
 - [x] Json API and Ajax
