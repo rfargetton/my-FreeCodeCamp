@@ -1,6 +1,6 @@
 # My FreeCodeCamp
 
-I use this repository to store all my work and progress on FreeCodeCamp.
+I use this repository to keep track of all my work and achievements on FreeCodeCamp.
 
 ## Achievements
 
