@@ -21,7 +21,7 @@ I use this repository to keep track of all my work and achievements on FreeCodeC
   - [x] Show the Local Weather
   - [x] Wikipedia Viewer
   - [x] Use the Twicth.tv JSON API
-- [ ] Intermediate Algorithm Scripting
+- [x] Intermediate Algorithm Scripting
 - [ ] Advanced Algorithm Scripting
 - [ ] Advanced Front End Development Projects
   - [ ] Build a Javascript Calculator
